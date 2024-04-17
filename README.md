@@ -5,6 +5,7 @@
 - requirements.txt
 
 ## Install
+- chromium
 - python
 - pip
 - packages: 
