@@ -1,6 +1,6 @@
 ## Structure
 - input/
- - data.csv
+    - data.csv
 - run.py
 - requirements.txt
 
